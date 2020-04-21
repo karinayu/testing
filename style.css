@@ -1,0 +1,49 @@
+html {
+    background-color: #0d0d0d;
+    color: white;
+
+}
+h2 {
+    font-size: 2em;
+    font-family: ;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+label {
+    text-align: center;
+    margin-left: 48%;
+    font-size: 1.5em;
+    font: "Formular";
+}
+input {
+    text-align: center;
+    margin-left: 41%;
+    background-color: rgba(22, 22, 22, 0.938);
+    color: white;
+    font: 18px/40px "Formular";
+    width: 252px;
+    border-radius: 5px;
+
+}
+input[type="submit"]{
+    font: bold 24px/58px "Formular";
+    text-align: center;
+    cursor: pointer;
+    margin-left: 40%;
+    width: 277px;
+    height: 58px;
+    border: 1px solid rgba(255, 225, 255, 0.3);
+    color: white;
+    background-color: black;
+}
+input[type="submit"]:hover {
+    border: 1px solid #ffe1ff;
+    background-color: rgba(255, 225, 255, 0.05);
+}
+a {
+    margin-left: 45%;
+    color: white;
+    font: 18px/20px "Formular";
+    text-decoration: none;
+}

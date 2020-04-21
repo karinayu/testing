@@ -1,0 +1,48 @@
+html {
+    background-color: #0d0d0d;
+    color: white;
+    font: 24px "Formular";
+
+}
+
+.quest {
+    width: 70%;
+    height: 35%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+I {
+    font-size: 2em;
+    font: "Formular";
+
+}
+.ans {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+input {
+    margin-left: 30%;
+    margin-bottom: 20px;
+
+}
+a {
+    text-decoration: none;
+    padding: 10px 15px;
+}
+button, a {
+    font: bold 24px/58px "Formular";
+    text-align: center;
+    cursor: pointer;
+    margin-left: 40%;
+    width: 277px;
+    height: 58px;
+    border: 1px solid rgba(255, 225, 255, 0.3);
+    color: white;
+    background-color: black;
+}
+button:hover, a:hover {
+    border: 1px solid #ffe1ff;
+    background-color: rgba(255, 225, 255, 0.05);
+}
